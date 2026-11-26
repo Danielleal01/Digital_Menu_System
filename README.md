@@ -16,7 +16,7 @@ Site de cardápio online com painel administrativo e acompanhamento de pedido fe
 ## Curso:
 Técnico em Desenvolvimento de Sistemas - Etec.
 
-## Autor:
-Daniel Leal dos Santos
+## Autores do projeto:
+Daniel Leal dos Santos, Beatriz, Danielle, Felipe e Vinicius
 
 🔗Versão hospedada: https://digital-menu-system.free.nf/
